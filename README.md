@@ -1,7 +1,5 @@
 ![MERN Stack Web Developer](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 
-### Hi there 👋
-
 ### Hi there 👋, I am Tanvir Alam
 #### MERN Stack Web Developer
 
