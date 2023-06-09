@@ -9,11 +9,11 @@ I am a skill full developer and hard worker and self-learner. I come up with ide
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-alam625" alt="tanvir-alam625" /></a> </p>
 
-- 🔭 I’m currently working on [Invetory Management Server]([https://github.com/Tanvir-Alam625/snake-blog-with-laravel](https://github.com/Tanvir-Alam625/inventory-managment-server))
+- 🔭 I’m currently working on [Invetory Management Server]([https://github.com/Tanvir-Alam625/inventory-managment-server])
 
 - 🌱 I’m currently learning **PHP, Laravel, MYSQL**
 
-- 👯 I’m looking to collaborate on [Online Bank BD](https://online-money-bd.netlify.app/)
+- 👯 I’m looking to collaborate on [Online Bank BD](https://online-money-bd.netlify.app/)  [admintToolkit Dashboard Template]([https://www.getadmintoolkit.com/])
 
 - 👨‍💻 All of my projects are available at [https://tanvir-alam625.netlify.com/](https://tanvir-alam625.netlify.com/)
 
