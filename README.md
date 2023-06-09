@@ -11,22 +11,22 @@ I am a skill full developer and hard worker and self-learner. I come up with ide
 
 - 🔭 I’m currently working on [Inventory Management Server](https://github.com/Tanvir-Alam625/inventory-managment-server)
 
-- 🌱 I’m currently learning **PHP, Laravel, MYSQL**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on [Online Bank BD](https://online-money-bd.netlify.app/) [adminToolkit Dashboard Template](https://www.getadmintoolkit.com/)
 
 - 👨‍💻 All of my projects are available at [https://tanvir-alam625.netlify.com/](https://tanvir-alam625.netlify.com/)
 
-- 💬 Ask me about **JS, PHP, ReactJS, Redux, NodeJS, MongoDB, MySQL**
+- 💬 Ask me about **HTML, CSS, TailwindCSS, JS, PHP, ReactJs, NextJs Redux, NodeJs, MongoDB, MySQL, Typescript, mongoose**
 
 - 📫 How to reach me **mdtanviralamht731@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M0zeVQ5v4tbSFnP0v1R-ByxiOdGPejV4/view?usp=sharing](https://drive.google.com/file/d/1M0zeVQ5v4tbSFnP0v1R-ByxiOdGPejV4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1R9pWhC6jAxIdnTYml89mnKOG1K6a9JUrmJZkdnE4SZw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanvir625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvir625" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-tanvir-alam-a328341b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tanvir-alam-a328341b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanviralam625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tanvir-alam-a328341b3" height="30" width="40" /></a>
 <a href="https://fb.com/tanvir.alam625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir.alam625" height="30" width="40" /></a>
 <a href="https://instagram.com/tanvir_alam731/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir_alam731/" height="30" width="40" /></a>
 <a href="https://www.behance.net/xv3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="xv3" height="30" width="40" /></a>
