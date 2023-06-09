@@ -9,7 +9,7 @@ I am a skill full developer and hard worker and self-learner. I come up with ide
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-alam625" alt="tanvir-alam625" /></a> </p>
 
-- 🔭 I’m currently working on [Snake Blog Website](https://github.com/Tanvir-Alam625/snake-blog-with-laravel)
+- 🔭 I’m currently working on [Invetory Management Server]([https://github.com/Tanvir-Alam625/snake-blog-with-laravel](https://github.com/Tanvir-Alam625/inventory-managment-server))
 
 - 🌱 I’m currently learning **PHP, Laravel, MYSQL**
 
