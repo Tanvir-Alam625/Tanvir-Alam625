@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tanvir Alam</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-I am a skill full developer and hard worker and self-learner. I come up with ideas, and see them flush them out. Love to work, like to use my creativity, and want to make my silent happy. This is my passion, I am an experienced web designer & web developer my core skills are: JavaScript/PHP/React/Node/Express/Laravel/MongoDB/MYSQL
+I am a skilled full developer and hard worker and self-learner. I come up with ideas and see them flush them out. Love to work, like to use my creativity, and want to make my silent happy. This is my passion, I am an experienced web designer & web developer my core skills are: JavaScript/TypeScript/React /NextJs/Redux/Node/Express/PHP/Laravel/MongoDB/MYSQL
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-alam625&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-alam625" /> </p>
 
@@ -40,4 +40,8 @@ I am a skill full developer and hard worker and self-learner. I come up with ide
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-alam625&show_icons=true&locale=en" alt="tanvir-alam625" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanvir-alam625&theme=merko&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
+<a href="https://github.com/tanvir-alam625/github-stats">
+  
+![](https://github.com/tanvir-alam625/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/tanvir-alam625/github-stats/blob/master/generated/languages.svg)
+</a>  
