@@ -40,8 +40,4 @@ I am a skilled full developer and hard worker and self-learner. I come up with i
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-alam625&show_icons=true&locale=en" alt="tanvir-alam625" /></p>
 
-<a href="https://github.com/tanvir-alam625/github-stats">
-  
-![](https://github.com/tanvir-alam625/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/tanvir-alam625/github-stats/blob/master/generated/languages.svg)
-</a>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanvir-alam625&theme=merko&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
