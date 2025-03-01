@@ -15,7 +15,7 @@ I am a skilled full developer and hard worker and self-learner. I come up with i
 
 - 👯 I’m looking to collaborate on  [adminToolkit Dashboard Template](https://www.getadmintoolkit.com/)
 
-- 👨‍💻 All of my projects are available at [https://dev-tanvir01.com/](https://dev-tanvir01.com/)
+- 👨‍💻 All of my projects are available at [https://dev-tanvir01.me/](https://dev-tanvir01.me/)
 
 - 💬 Ask me about **HTML, CSS, TailwindCSS, JS, PHP, Laravel API, SQL, ReactJs, NextJs Redux, NodeJs, MongoDB, MySQL, Typescript, mongoose**
 
