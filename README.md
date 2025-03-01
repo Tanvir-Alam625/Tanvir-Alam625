@@ -21,7 +21,7 @@ I am a skilled full developer and hard worker and self-learner. I come up with i
 
 - 📫 How to reach me **devtanvir01@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1R9pWhC6jAxIdnTYml89mnKOG1K6a9JUrmJZkdnE4SZw/edit?usp=sharing)
+#- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1R9pWhC6jAxIdnTYml89mnKOG1K6a9JUrmJZkdnE4SZw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
