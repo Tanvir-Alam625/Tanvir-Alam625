@@ -9,15 +9,15 @@ I am a skilled full developer and hard worker and self-learner. I come up with i
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-alam625" alt="tanvir-alam625" /></a> </p>
 
-- 🔭 I’m currently working on [adminToolkit]()
+- 🔭 I’m currently working on [Lottieicon](https://dev.lottieicon.com/)
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on [Online Bank BD](https://online-money-bd.netlify.app/) [adminToolkit Dashboard Template](https://www.getadmintoolkit.com/)
+- 👯 I’m looking to collaborate on  [adminToolkit Dashboard Template](https://www.getadmintoolkit.com/)
 
-- 👨‍💻 All of my projects are available at [https://tanvir-alam625.netlify.com/](https://tanvir-alam625.netlify.com/)
+- 👨‍💻 All of my projects are available at [https://dev-tanvir01.com/](https://dev-tanvir01.com/)
 
-- 💬 Ask me about **HTML, CSS, TailwindCSS, JS, PHP, ReactJs, NextJs Redux, NodeJs, MongoDB, MySQL, Typescript, mongoose**
+- 💬 Ask me about **HTML, CSS, TailwindCSS, JS, PHP, Laravel API, SQL, ReactJs, NextJs Redux, NodeJs, MongoDB, MySQL, Typescript, mongoose**
 
 - 📫 How to reach me **devtanvir01@gmail.com**
 
