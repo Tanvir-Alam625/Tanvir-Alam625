@@ -1,7 +1,7 @@
-![Full Stack Web Developer](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+![Software Engineer](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 
 <h1 align="center">Hi 👋, I'm Tanvir Alam</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 I am a skilled full developer and hard worker and self-learner. I come up with ideas and see them flush them out. Love to work, like to use my creativity, and want to make my silent happy. This is my passion, I am an experienced web designer & web developer my core skills are: JavaScript/TypeScript/React /NextJs/Redux/Node/Express/PHP/Laravel/MongoDB/MYSQL
 
@@ -20,8 +20,6 @@ I am a skilled full developer and hard worker and self-learner. I come up with i
 - 💬 Ask me about **HTML, CSS, TailwindCSS, JS, PHP, Laravel API, SQL, ReactJs, NextJs Redux, NodeJs, MongoDB, MySQL, Typescript, mongoose**
 
 - 📫 How to reach me **devtanvir01@gmail.com**
-
-#- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1R9pWhC6jAxIdnTYml89mnKOG1K6a9JUrmJZkdnE4SZw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
