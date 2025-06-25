@@ -9,7 +9,7 @@ I am a skilled full developer and hard worker and self-learner. I come up with i
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-alam625" alt="tanvir-alam625" /></a> </p>
 
-- 🔭 I’m currently working on [Lottieicon](https://dev.lottieicon.com/)
+- 🔭 I’m currently working on [Lottieicon](https://lottieicon.com/)
 
 - 🌱 I’m currently learning **Typescript**
 
