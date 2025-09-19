@@ -13,13 +13,13 @@ I am a skilled full developer and hard worker and self-learner. I come up with i
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on  [adminToolkit Dashboard Template](https://www.getadmintoolkit.com/)
+#- 👯 I’m looking to collaborate on  [adminToolkit Dashboard Template](https://www.getadmintoolkit.com/)
 
 - 👨‍💻 All of my projects are available at ([https://dev-tanvir01.me/](https://www.dev-tanvir.me/))
 
 - 💬 Ask me about **HTML, CSS, TailwindCSS, JS, PHP, Laravel API, SQL, ReactJs, NextJs Redux, NodeJs, MongoDB, MySQL, Typescript, mongoose**
 
-- 📫 How to reach me **devtanvir01@gmail.com**
+- 📫 How to reach me  [in/tanviralam625/](https://www.linkedin.com/in/tanviralam625/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
