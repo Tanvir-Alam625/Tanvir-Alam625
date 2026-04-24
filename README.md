@@ -1,43 +1,99 @@
-![Software Engineer](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Tanvir Alam</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+# Tanvir Alam
 
-I am a skilled full developer and hard worker and self-learner. I come up with ideas and see them flush them out. Love to work, like to use my creativity, and want to make my silent happy. This is my passion, I am an experienced web designer & web developer my core skills are: JavaScript/TypeScript/React /NextJs/Redux/Node/Express/PHP/Laravel/MongoDB/MYSQL
+**Full-Stack Engineer** · React · Next.js · Node.js · TypeScript · Laravel API
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-alam625&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-alam625" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanviralam625/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.dev-tanvir.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanvir-Alam625)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devtanvir01@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-alam625" alt="tanvir-alam625" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [Lottieicon](https://lottieicon.com/)
+---
 
-- 🌱 I’m currently learning **Typescript**
+## About
 
-#- 👯 I’m looking to collaborate on  [adminToolkit Dashboard Template](https://www.getadmintoolkit.com/)
+Full-stack engineer with 4+ years of experience building scalable, production-grade web applications. Currently at **MacroHealthPlus**, leading frontend development of SaaS healthcare products and building full-stack features with **Laravel + MySQL**. I focus on clean UI architecture, reusable component systems, and seamless full-stack integration.
 
-- 👨‍💻 All of my projects are available at ([https://dev-tanvir01.me/](https://www.dev-tanvir.me/))
+- **Software Engineer** @ [MacroHealthPlus](https://macrohealthplus.org/) *(Feb 2025 – Present)*
+- Currently building **[Lottieicon](https://lottieicon.com/)** — a JSON animation library with 4,800+ icons
+- B.Sc. Computer Science Engineering, Sonargaon University *(2026)*
 
-- 💬 Ask me about **HTML, CSS, TailwindCSS, JS, PHP, Laravel API, SQL, ReactJs, NextJs Redux, NodeJs, MongoDB, MySQL, Typescript, mongoose**
+---
 
-- 📫 How to reach me  [in/tanviralam625/](https://www.linkedin.com/in/tanviralam625/)
+## Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanvir625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvir625" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tanviralam625/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tanvir-alam-a328341b3" height="30" width="40" /></a>
-<a href="https://fb.com/tanvir.alam625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir.alam625" height="30" width="40" /></a>
-<a href="https://instagram.com/tanvir_alam731/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir_alam731/" height="30" width="40" /></a>
-<a href="https://www.behance.net/xv3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="xv3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/md tanvir alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md tanvir alam" height="30" width="40" /></a>
-</p>
+**Frontend**
 
-### :computer: Languages, Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-alam625&show_icons=true&locale=en&layout=compact" alt="tanvir-alam625" /></p>
+**Database & Tools**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-alam625&show_icons=true&locale=en" alt="tanvir-alam625" /></p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanvir-alam625&theme=merko&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
+**AI & Agentic**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-6C3483?style=flat-square&logoColor=white)
+
+> Building AI-powered features: LLM-integrated UIs, RAG pipelines, tool-calling agents, and streaming chat interfaces with Next.js + Vercel AI SDK.
+
+---
+
+## Notable Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Lottieicon**](https://lottieicon.com/) | JSON-based animation library with 4,800+ icons | Next.js, Tailwind, CI/CD |
+| [**Ceburu Dashboard**](https://ceburu.com/) | AI-powered IT monitoring dashboard | React, Redux |
+| [**Threads**](https://github.com/Tanvir-Alam625) | Social media app with PWA support | Next.js, Clerk, Tailwind |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-alam625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-alam625&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanvir-alam625&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvir-alam625&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+<sub>Open to remote opportunities · devtanvir01@gmail.com</sub>
+</div>
