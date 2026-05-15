@@ -77,13 +77,21 @@ Fully responsive with PWA support, built with Next.js Server Actions and Clerk a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvir-Alam625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=Tanvir-Alam625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=3600" alt="GitHub Stats" width="400" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tanvir-Alam625&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanvir-Alam625&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" width="400" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-Alam625&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Alam625&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tanvir-Alam625&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Alam625&theme=tokyo-night&hide_border=true&area=true&cache_seconds=3600" alt="GitHub Activity Graph" />
 
 </div>
 
