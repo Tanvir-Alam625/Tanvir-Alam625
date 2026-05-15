@@ -73,12 +73,17 @@ Fully responsive with PWA support, built with Next.js Server Actions and Clerk a
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Alam625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanvir-Alam625&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvir-Alam625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tanvir-Alam625&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-Alam625&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Alam625&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
