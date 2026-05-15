@@ -88,10 +88,3 @@ Fully responsive with PWA support, built with Next.js Server Actions and Clerk a
 - **GitHub:** [Tanvir-Alam625](https://github.com/Tanvir-Alam625)
 - **LeetCode:** [tanvirdev](https://leetcode.com/u/tanvirdev/)
 
----
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=Tanvir-Alam625&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
