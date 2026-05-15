@@ -26,8 +26,6 @@ React · Next.js · Node.js · TypeScript · Laravel
 
 </div>
 
----
-
 <div align="center">
 
 ## About
@@ -35,8 +33,6 @@ React · Next.js · Node.js · TypeScript · Laravel
 Full-stack engineer with 3+ years of experience designing and shipping scalable, production-grade web applications. Specializing in clean architecture, performant UI, and developer experience.
 
 </div>
-
----
 
 <div align="center">
 
@@ -60,8 +56,6 @@ Full-stack engineer with 3+ years of experience designing and shipping scalable,
 
 </div>
 
----
-
 <div align="center">
 
 ## Projects
@@ -74,10 +68,9 @@ A powerful JSON-based animation library with 4,800+ icons
 
 <br/>
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · CI/CD, oauth2 Authentication  
-**Highlights:** 4,800+ icons · Lighthouse 95+ · fast navigation 
+ Next.js · TypeScript · Tailwind CSS · CI/CD, oauth2 Authentication  
+ 4,800+ icons · Lighthouse 95+ · fast navigation 
 
----
 
 ### Threads
 
@@ -87,12 +80,11 @@ Self-built social media app with post sharing and trending topics
 
 <br/>
 
-**Stack:** Next.js · Server Actions · Tailwind CSS · Clerk  
-**Highlights:** Real-time updates · PWA support · responsive UI · Try to used Airbnb's Code Style 
+ Next.js · Server Actions · Tailwind CSS · Clerk  
+ Real-time updates · PWA support · responsive UI · Try to used Airbnb's Code Style 
 
 </div>
 
----
 
 <div align="center">
 
@@ -110,7 +102,6 @@ Self-built social media app with post sharing and trending topics
 
 </div>
 
----
 
 <div align="center">
 
